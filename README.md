@@ -26,7 +26,7 @@ Core Features
 
 • Order history - per-hunter list of past purchases
 
-• Admin Inventory Management - add/edit/delete items, image upload support (images/items)
+• Admin Inventory Management - add/edit/delete items, image upload support (images/items) *make sure that images/items/ exist.
 
 • Themed UI - dark gothic Bootstrap overrides (custom CSS variables for blood-red, bone, glow accents), Bloodborne-authentic terminology throughout (Blood Echoes, Insight, Hunter's Dream, etc.)
 
